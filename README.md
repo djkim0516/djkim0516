@@ -32,6 +32,12 @@
 <!-- - **(심사전)** 김동준. (2022).  -->
 
 ## Projects
+- 2021년 BK21 펠로우십 장학프로그램 대학원생 졸업 기간 예측
+    - 고려대학교 대학원생 입학/졸업 데이터를 바탕으로 LightGBM, SHAP을 사용하여 졸업 기간 예측 및 요인 분석
+    - `Python` `Machine Learning`  `Classification`
+    - [Github](https://github.com/djkim0516/BK21Project_GraduationPrediction).
+    - [Report](https://github.com/djkim0516/BK21Project_GraduationPrediction/blob/main/%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf).
+  
 - Heart Disease AI Datathon 2021 심전도 데이터 데이터톤 대회
     - 2021 인공지능 학습용 심장질환 심초음파 및 심전도 데이터셋과 ResNet 모델을 바탕으로 부정맥 발생 여부 예측
     - `Python` `Deep Learning`  `Time Series`
