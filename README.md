@@ -53,6 +53,7 @@
     - 미국 MODIS 위성 정보, 브라질 전국 기상 정보 등을 바탕으로 브라질 아마존 숲에서 발생하는 산불의 위험도를 예측
     - `Python` `Machine Learning` `Time Series`
     - [Github](https://github.com/djkim0516/BNCS411_Final_Project).
+    - [Report](https://github.com/djkim0516/BNCS411_Final_Project/blob/main/Group12_Final_Report_Forest_Fire_Prediction.pdf).
 - K-Means Clustering Algorithm 구현 (컴퓨터비젼 강의)
     - 주어진 이미지를 K-Means Clustering 하기 위한 알고리즘 직접 구현
     - `Python` `Machine Learning`  `Image`

@@ -11,11 +11,18 @@
 - 고려대학교 정보대학 인공지능융합전공 학사 (20.09 ~ 21.08)
 - 고려대학교 공과대학 건축사회환경공학부 학사 (15.03 ~ 21.08)
 
+### Skills
+- 프로그래밍언어
+  - `Python` `MATLAB` `SQL` 
+- 데이터사이언스
+  - `Pandas` `Scikit-Learn` `Matplotlib`
+- 딥러닝
+  - `PyTorch` `Keras` `Torch-Geometric`
 ### Activities
-- 데이콘에서 KIST가 주관한 생육 환경 최적화 경진대회 참가
+- 데이콘에서 KIST가 주관한 생육 환경 최적화 경진대회 참가중
 - 서울대학교병원이 주관한 2021 심전도 데이터 데이터톤 대회 참가
 - 고려대학교 도시에너지환경연구실 인턴(20.07 ~ 20.09)
-- 제3공수특전여단 병장 만기 전역(17.05 ~ 19.02)
+<!-- - 제3공수특전여단 병장 만기 전역(17.05 ~ 19.02) -->
 
 ## Papers
 
@@ -25,6 +32,12 @@
 <!-- - **(심사전)** 김동준. (2022).  -->
 
 ## Projects
+- 2021년 BK21 펠로우십 장학프로그램 대학원생 졸업 기간 예측
+    - 고려대학교 대학원생 입학/졸업 데이터를 바탕으로 LightGBM, SHAP을 사용하여 졸업 기간 예측 및 요인 분석
+    - `Python` `Machine Learning`  `Classification`
+    - [Github](https://github.com/djkim0516/BK21Project_GraduationPrediction).
+    - [Report](https://github.com/djkim0516/BK21Project_GraduationPrediction/blob/main/%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf).
+  
 - Heart Disease AI Datathon 2021 심전도 데이터 데이터톤 대회
     - 2021 인공지능 학습용 심장질환 심초음파 및 심전도 데이터셋과 ResNet 모델을 바탕으로 부정맥 발생 여부 예측
     - `Python` `Deep Learning`  `Time Series`
@@ -58,7 +71,8 @@
   - 기계학습, 딥러닝, 인공지능
   - 컴퓨터비젼, 패턴인식, 뇌및머신러닝입문
   - 생체신호처리, 데이터마이닝
-  - (대학원) 멀티스케일데이터마이닝, 클라우드컴퓨팅입문
+  - (대학원) 멀티스케일데이터마이닝, 모바일응용특론, 패턴인식특론
+  - (대학원) 멀티미디어컴퓨팅, 클라우드컴퓨팅입문
 
 
 ### 교외
