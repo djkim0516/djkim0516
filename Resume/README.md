@@ -19,11 +19,13 @@
   - `Pandas` `Scikit-Learn` `Matplotlib`
 - 딥러닝
   - `PyTorch` `Keras` `Torch-Geometric`
+- 클라우드
+  - `AWS Cloud Practitioner Essentials`
 ### Activities
 - 데이콘에서 KIST가 주관한 생육 환경 최적화 경진대회 참가중
 - 서울대학교병원이 주관한 2021 심전도 데이터 데이터톤 대회 참가
 - 고려대학교 도시에너지환경연구실 인턴(20.07 ~ 20.09)
-<!-- - 제3공수특전여단 병장 만기 전역(17.05 ~ 19.02) -->
+- 제3공수특전여단 병장 만기 전역(17.05 ~ 19.02)
 
 ## Papers
 
