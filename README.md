@@ -12,6 +12,10 @@
 - 고려대학교 공과대학 건축사회환경공학부 학사 (15.03 ~ 21.08)
 - 세화고등학교 졸업 (12.03 ~ 15.02)
 
+### Interests
+- GNN 기반 다변량 시계열 예측
+- 스마트그리드 에너지 최적화
+
 ### Skills
 - 프로그래밍언어
   - `Python` `MATLAB` `SQL` 
@@ -19,8 +23,8 @@
   - `Pandas` `Scikit-Learn` `Matplotlib`
 - 딥러닝
   - `PyTorch` `Keras` `Torch-Geometric`
-- 클라우드
-  - `AWS Cloud Practitioner Essentials`
+- 기타
+  - `AWS Cloud Practitioner Essentials` `AutoCAD` `SketchUp`
 <!-- - 기타
   - `공수기본 자격증 #814` -->
 ### Activities
