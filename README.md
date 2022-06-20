@@ -24,21 +24,34 @@
 - 딥러닝
   - `PyTorch` `Keras` `Torch-Geometric`
 - 기타
-  - `AWS Cloud Practitioner Essentials` `AutoCAD` `SketchUp`
+  - `AWS Certified Cloud Practitioner` `AutoCAD` `SketchUp`
+
+### Certificates
+- `AWS Certified Cloud Practitioner`
+- `공수기본 자격증 #814기` `Airborne Basic Parachute Training Course #814`
+
 <!-- - 기타
   - `공수기본 자격증 #814` -->
 ### Activities
 - 데이콘에서 KIST가 주관한 생육 환경 최적화 경진대회 참가중
 - 서울대학교병원이 주관한 2021 심전도 데이터 데이터톤 대회 참가
 - 고려대학교 도시에너지환경연구실 인턴(20.07 ~ 20.09)
+
+### Military Service
 - 특수전사령부 제3공수특전여단 병장 만기 전역(17.05 ~ 19.02)
+  - ROK Army Special Warfare Command(ROK-SWC) The 3rd Special Forces Brigade Sgt.
 
 ## Papers
 
 <!-- ### Domestic -->
 - 김동준. (2021). "PM10 미세먼지 데이터를 고려한 기계 학습 기반의 태양광 발전 효율 예측 기법", 2021 한국소프트웨어종합학술대회, 평창, 한국정보과학회, pp. 272-274
     - 미세먼지 데이터를 활용하여 기계학습 모델들의 태양관 발전 효율 예측 성능 향상
+- 김동준. (2022). "지역간 기상 유사도를 고려한 DNN 기반의 제로 샷 태양광 발전 효율 예측 기법", 2022 한국컴퓨터종합학술대회, 제주, 한국정보과학회
+    - 기존에 태양광 발전소가 존재하지 않는 지역에 대하여 기상 유사도를 반영하여 태양광 발전 효율을 예측하는 기법을 제안함
 <!-- - **(심사전)** 김동준. (2022).  -->
+
+## Awards
+- KCC2022(한국컴퓨터종합학술대회) 우수논문상 - "지역간 기상 유사도를 고려한 DNN 기반의 제로 샷 태양광 발전 효율 예측 기법" 
 
 ## Projects
 - 2021년 BK21 펠로우십 장학프로그램 대학원생 졸업 기간 예측
