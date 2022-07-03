@@ -51,7 +51,7 @@
 <!-- - **(심사전)** 김동준. (2022).  -->
 
 ## Awards
-- KCC2022(한국컴퓨터종합학술대회) 우수논문상 - "지역간 기상 유사도를 고려한 DNN 기반의 제로 샷 태양광 발전 효율 예측 기법" 
+- KCC2022(한국컴퓨터종합학술대회) 최우수논문상 - "지역간 기상 유사도를 고려한 DNN 기반의 제로 샷 태양광 발전 효율 예측 기법" 
 
 ## Projects
 - 2021년 BK21 펠로우십 장학프로그램 대학원생 졸업 기간 예측
@@ -100,5 +100,6 @@
 
 ### 교외
   - [CS224w - Machine Learning With Graphs](http://web.stanford.edu/class/cs224w).
-  - Programmers 코딩 테스트 연습
+  - AWS Cloud Practitioner Essentials (Korean)
   - [GNN 논문 리뷰 및 스터디](https://github.com/djkim0516?tab=repositories).
+  - Programmers 코딩 테스트 연습
