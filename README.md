@@ -27,7 +27,7 @@
   - `AWS Certified Cloud Practitioner` `AutoCAD` `SketchUp`
 
 ### Certificates
-- `OPIc(영어) AL(Advanced Low)`
+- `OPIc(영어) AL(Advanced Low)(22.08.20)`
 - `AWS Certified Cloud Practitioner`
 - `공수기본 자격증 #814기` `Airborne Basic Parachute Training Course #814`
 
