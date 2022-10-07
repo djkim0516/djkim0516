@@ -57,31 +57,35 @@
 - KCC2022(한국컴퓨터종합학술대회) 최우수논문상 - "지역간 기상 유사도를 고려한 DNN 기반의 제로 샷 태양광 발전 효율 예측 기법" 
 
 ## Projects
+- 2022년 BK21 펠로우십 장학프로그램 논문 추천 제안
+    - 고려대학교 대학원생에 대한 관련 논문 추천 프로그램 성능을 향상시키기 위하여 참여 과제, 지도 교수/비지도 교수 논문 데이터에서 Mecab-Ko, NLTK를 활용하여 키워드를 추출하고 LDA를 통하여 유사도를 분석 후 추천하는 방법을 제안
+    - `Python`  `Natural Language Processing`  `LDA`
+
 - 2021년 BK21 펠로우십 장학프로그램 대학원생 졸업 기간 예측
     - 고려대학교 대학원생 입학/졸업 데이터를 바탕으로 LightGBM, SHAP을 사용하여 졸업 기간 예측 및 요인 분석
-    - `Python` `Machine Learning`  `Classification`
+    - `Python`  `Machine Learning`  `Classification`
     - [Github](https://github.com/djkim0516/BK21Project_GraduationPrediction).
     - [Report](https://github.com/djkim0516/BK21Project_GraduationPrediction/blob/main/%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf).
   
 - Heart Disease AI Datathon 2021 심전도 데이터 데이터톤 대회
     - 2021 인공지능 학습용 심장질환 심초음파 및 심전도 데이터셋과 ResNet 모델을 바탕으로 부정맥 발생 여부 예측
-    - `Python` `Deep Learning`  `Time Series`
+    - `Python`  `Deep Learning`  `Time Series`
     - [Github](https://github.com/djkim0516/ECG-classification-HDAI).
 
 - ColaGNN 모델 구현
     - Attention, Graph Neural Network 기반 감염병 장기 예측을 위한 ColaGNN 논문을 읽고 이를 바탕으로 모델 구현
-    - `Python` `Deep Learning` `Time Series` `GNN`
+    - `Python`  `Deep Learning`  `Time Series`  `GNN`
     - [Github1](https://github.com/djkim0516/COLA_GNN).
     - [Github2](https://github.com/djkim0516/Cola_GNN_review).
 
 - 브라질 산불 위험도 예측 기계학습 모델 구현(뇌및머신러닝입문 강의)
     - 미국 MODIS 위성 정보, 브라질 전국 기상 정보 등을 바탕으로 브라질 아마존 숲에서 발생하는 산불의 위험도를 예측
-    - `Python` `Machine Learning` `Time Series`
+    - `Python`  `Machine Learning`  `Time Series`
     - [Github](https://github.com/djkim0516/BNCS411_Final_Project).
     - [Report](https://github.com/djkim0516/BNCS411_Final_Project/blob/main/Group12_Final_Report_Forest_Fire_Prediction.pdf).
 - K-Means Clustering Algorithm 구현 (컴퓨터비젼 강의)
     - 주어진 이미지를 K-Means Clustering 하기 위한 알고리즘 직접 구현
-    - `Python` `Machine Learning`  `Image`
+    - `Python`  `Machine Learning`  `Image`
     - [Github](https://github.com/djkim0516/K_means_Clustering).
 
 ## Courses
