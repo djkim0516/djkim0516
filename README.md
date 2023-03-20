@@ -45,7 +45,7 @@
 ## Papers
 
 ### International Journal
-- W. Chung, J. Moon, **D. Kim** and E. Hwang, "Graph Structure Construction-based Neural Network for Multivariate Time-series Forecasting," Computers, Materials and Continua, Under Review
+- W. Chung, J. Moon, **D. Kim** and E. Hwang, "Graph Structure Construction-based Neural Network for Multivariate Time-series Forecasting," Computers, Materials and Continua, Accepted
 ### Domestic Journal
 - **김동준**, 박성우, 문재욱, 황인준. (2022). "PCC 기반 기상 변수 유사도를 고려한 제로샷 태양광 발전율 예측 기법“, 2022 한국정보과학회, Under Review
 
