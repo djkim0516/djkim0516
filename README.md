@@ -5,9 +5,12 @@
 - Email : djkim0516@gmail.com
 - GitHub : https://github.com/djkim0516
 
+### Current Position
+- Senior Research Engineer - AI/Big Data Analysis Team (LG Display)
+
 ### Education
 
-- 고려대학교 공과대학 전기전자공학부 컴퓨터공학전공 석사과정 (21.09 ~ )
+- 고려대학교 공과대학 전기전자공학부 컴퓨터공학전공 석사과정 (21.09 ~ 23.08)
 - 고려대학교 정보대학 인공지능융합전공 학사 (20.09 ~ 21.08)
 - 고려대학교 공과대학 건축사회환경공학부 학사 (15.03 ~ 21.08)
 - 세화고등학교 졸업 (12.03 ~ 15.02)
